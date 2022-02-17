@@ -1,6 +1,6 @@
 <?php
 
 //Primera funcion de prueba core
-function en_custom(){
-    return 'ESTOY DENTRO DE CUSTOM_FUNCTIONS';
+function en_core(){
+    return 'ESTOY DENTRO DE CORE_FUNCTIONS';
 }
